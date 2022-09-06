@@ -8,8 +8,8 @@ _I'm starting my journey like a developer here on github._
 [meu-insta]: https://www.instagram.com/Brunna.oliveira10/
 
 
-![Bruna's Stats](https://github-readme-stats.vercel.app/api?username=Brunabr&theme=graywhite&show_icons=true&hide_border=true&hide=prs,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunabr&layout=compact&hide_border=true&theme=graywhite)
+![Brunna's Stats](https://github-readme-stats.vercel.app/api?username=Brunnabr&theme=graywhite&show_icons=true&hide_border=true&hide=prs,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunnabr&layout=compact&hide_border=true&theme=graywhite)
 
 <!--
 **Brunnabr/Brunnabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
